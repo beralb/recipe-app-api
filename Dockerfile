@@ -1,5 +1,5 @@
 FROM python:3.9-alpine3.13
-LABEL mainteiner="Jean Paul Bernhardt"
+LABEL maintainer="Jean Paul Bernhardt"
 
 ENV PYTHONUNBUFFERED 1
 
