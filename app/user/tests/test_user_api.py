@@ -1,6 +1,4 @@
-""" 
-Tests for the user API
-"""
+"""Tests for the user API"""
 from django.test import TestCase
 from django.contrib.auth import get_user_model
 from django.urls import reverse
@@ -78,7 +76,7 @@ class PublicUserApiTests(TestCase):
             'password': user_details['password'],
         }
         res = self.client.post(TOKEN_URL, payload)
-        self.assertIn('token', res.data) 
+        self.assertIn('token', res.data)
         self.assertEqual(res.status_code, status.HTTP_200_OK)
 
     def test_create_token_bad_credentials(self):
