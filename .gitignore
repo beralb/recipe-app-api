@@ -130,3 +130,4 @@ dmypy.json
 
 # Other
 my_comments/
+app/app/settings.py
