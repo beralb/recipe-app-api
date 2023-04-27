@@ -1,7 +1,7 @@
 <h1 align="left">Python/Django API Project - Recipes</h1>
 </br>
 
-In this project I implemented an API with 19 endpoints fro storing recipes. This web application was developed with Python and Django (a very popular web framework in the Python community). We also had the opportunity to exercise the development using TDD.
+In this project I implemented an API with 19 endpoints fro storing recipes. This web application was developed with Python and Django (a very popular web framework in the Python community). I also had the opportunity to exercise the development using TDD.
   
 Skills worked:
 
@@ -10,7 +10,7 @@ Skills worked:
 - Creation of 19 API endpoints
 - User authentication
 - Browseable admin interface (Django Admin)
-- Browseable API and Documentation (Swagger)
+- Interactive API Documentation with Swagger
 - Technologies: Python, Django Framework, PostgreSQL, Docker, Swagger, Github Actions
 - Deployment: AWS EC2
 
