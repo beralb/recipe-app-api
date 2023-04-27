@@ -25,11 +25,15 @@ Skills worked:
 <h3 align="left">Technologies, Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue0"/> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue0" alt="python"/> 
 </a>
-<a href="https://palletsprojects.com/p/flask/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" /> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django"/> 
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> 
+</a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="swagger"/> 
 </a>
 
 </p>
