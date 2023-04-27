@@ -1,7 +1,7 @@
 <h1 align="left">Python/Django API Project - Recipes</h1>
 </br>
 
-In this project I implemented an API with 19 endpoints fro storing recipes. This web application was developed with Python and Django (a very popular web framework in the Python community). We also had the opportunity to of make the development using TDD.
+In this project I implemented an API with 19 endpoints fro storing recipes. This web application was developed with Python and Django (a very popular web framework in the Python community). We also had the opportunity to exercise the development using TDD.
   
 Skills worked:
 
